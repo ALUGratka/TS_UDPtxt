@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\alicja\source\repos\ts\projekt_vol_2\client2_txt\client2_txt\source.cpp(87): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\alicja\source\repos\ts\projekt_vol_2\client2_txt\client2_txt\source.cpp(53): warning C4101: 'sendBuffer': unreferenced local variable
+  Client2_txt.vcxproj -> C:\Users\Alicja\source\repos\TS\Projekt_vol_2\Client2_txt\Debug\Client2_txt.exe

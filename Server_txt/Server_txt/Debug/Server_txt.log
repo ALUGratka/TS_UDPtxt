@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\alicja\source\repos\ts\projekt_vol_2\server_txt\server_txt\source.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Server_txt.vcxproj -> C:\Users\Alicja\source\repos\TS\Projekt_vol_2\Server_txt\Debug\Server_txt.exe
